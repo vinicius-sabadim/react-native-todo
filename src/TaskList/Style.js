@@ -29,8 +29,5 @@ export default StyleSheet.create({
 		fontSize: 20,
 		paddingLeft: 10,
 		paddingTop: 3
-	},
-	switch: {
-
 	}
 })
